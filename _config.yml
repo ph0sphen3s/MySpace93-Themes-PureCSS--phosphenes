@@ -1,0 +1,18 @@
+title: MySpace Windows 93 Themes
+description: CSS themes made for Myspace93 page customization
+url: "https://github.com/ph0sphen3s/MySpace93-Themes-PureCSS--phosphenes"
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+google_analytics: G-NETH5YXE1B
+relative_links:
+  enabled: true
+  collections: true
+  
+include:
+  - README.md
+  - LICENSE
+
+theme: jekyll-theme-minimal
